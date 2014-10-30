@@ -1,0 +1,6 @@
+c:\users\janis bananis\documents\visual studio 2013\Projects\1dv402-jt222ic-geometriska-figurer\1dv402-jt222ic-geometriska-figurer\bin\Debug\1dv402-jt222ic-geometriska-figurer.exe.config
+c:\users\janis bananis\documents\visual studio 2013\Projects\1dv402-jt222ic-geometriska-figurer\1dv402-jt222ic-geometriska-figurer\obj\Debug\1dv402-jt222ic-geometriska-figurer.csprojResolveAssemblyReference.cache
+C:\Users\Janis bananis\Documents\Visual Studio 2013\Projects\1dv402-jt222ic-geometriska-figurer\1dv402-jt222ic-geometriska-figurer\bin\Debug\1dv402-jt222ic-geometriska-figurer.exe
+C:\Users\Janis bananis\Documents\Visual Studio 2013\Projects\1dv402-jt222ic-geometriska-figurer\1dv402-jt222ic-geometriska-figurer\bin\Debug\1dv402-jt222ic-geometriska-figurer.pdb
+C:\Users\Janis bananis\Documents\Visual Studio 2013\Projects\1dv402-jt222ic-geometriska-figurer\1dv402-jt222ic-geometriska-figurer\obj\Debug\1dv402-jt222ic-geometriska-figurer.exe
+C:\Users\Janis bananis\Documents\Visual Studio 2013\Projects\1dv402-jt222ic-geometriska-figurer\1dv402-jt222ic-geometriska-figurer\obj\Debug\1dv402-jt222ic-geometriska-figurer.pdb
